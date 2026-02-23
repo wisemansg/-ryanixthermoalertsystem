@@ -36,8 +36,8 @@ A formal email is sent to the manager, featuring:
 - A proper salutation
 - Structured paragraphs
 - A section titled 'Immediate Actions Required' with five bulleted steps, such as emergency stop, cooling activation, and isolation procedures
-- 
-![View](Email%20Response.jpeg)
+  
+![View](./ryanixassets/Email%20Response.jpeg)
 
 ### 🗓️ Google Calendar Scheduling  
 An event is created with details including:
@@ -46,15 +46,15 @@ An event is created with details including:
 - **Description**: Critical temperature alert (92°C) detected. Maintenance required to prevent system failure.
 - **Location**: Grünerløkka, Oslo, Norway
 
-![View](Calendar%20Response%201.jpeg)
-![View](Calendar%20Response%202.jpeg)
+![View](./ryanixassets/Calendar%20Response%201.jpeg)
+![View](./ryanixassets/Calendar%20Response%202.jpeg)
 
 ### 🚨 Telegram Notification  
 A concise urgent message is sent:
 
 - 'CRITICAL ALERT: Machine ACME-01 is at 92°C. Emergency repair scheduled. Check email for action steps.'
 
-![View](Telegram%20Response.jpeg)
+![View](./ryanixassets/Telegram%20Response.jpeg)
 
 ### 🔥 PagerDuty Incident Creation  
 A high-priority incident is logged with:
@@ -63,7 +63,7 @@ A high-priority incident is logged with:
 - **Description**: Industrial telemetry indicates a critical temperature threshold has been exceeded.
 - **Urgency**: High
 
-![View](Pagerduty%20Response.jpeg)
+![View](./ryanixassets/Pagerduty%20Response.jpeg)
 
 ### 💬 Discord Update  
 A formatted message is posted to the team channel:
@@ -73,7 +73,7 @@ A formatted message is posted to the team channel:
 - Condition: 92°C (Critical)
 - Status: Emergency repair scheduled in Google Calendar. PagerDuty incident triggered.
 
-![View](Discord%20Response.jpeg)
+![View](./ryanixassets/Discord%20Response.jpeg)
 
 ### 🧠 Memory Management  
 Simple Memory stores recent telemetry context to support follow-up actions in subsequent runs.
@@ -101,7 +101,7 @@ In the n8n interface:
 - Activate the workflow manually or simulate telemetry data
 - Observe logs to confirm notifications across channels and incident creation
 
-![View](Ryanix%20Workflow.png)
+![View](./ryanixassets/Ryanix%20Workflow.png)
 
 ## ✅ System Requirements
 
