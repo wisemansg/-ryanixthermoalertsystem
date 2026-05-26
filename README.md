@@ -1,5 +1,19 @@
-# 🔥 Ryanix ThermoAlert System 
+#  Ryanix ThermoAlert System 🔥
 
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?logo=googlecalendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Industrial%20Monitoring-B22222?logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-8A2BE2?logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-FF6B00?logo=apacheairflow&logoColor=white" />
+</p>
+
+---
 **Automated Critical Machine Monitoring & Multi-Channel Emergency Response Workflow**
 
 The Ryanix ThermoAlert System is an automated workflow designed to monitor machine telemetry and respond to critical alerts, such as high temperatures. This system integrates AI-driven decision-making with multiple notification channels to ensure rapid response and prevent potential failures in industrial equipment. The name of the imaginary company is Ryanix Solutions.
