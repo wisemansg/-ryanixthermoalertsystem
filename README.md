@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Industrial%20Monitoring-B22222?logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Automation-8A2BE2?logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow%20Orchestration-FF6B00?logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
